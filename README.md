@@ -19,8 +19,3 @@ Connect with me on https://www.linkedin.com/in/thyaga-alwis-629685342/ or email 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" alt="Android Studio" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VS Code" width="40" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="40" height="40"/> 
 
-## 📊 My GitHub Stats
-
-![Thyaga's GitHub Stats](https://github-readme-stats.vercel.app/api?username=thyagaalwis&show_icons=true&theme=radical)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=thyagaalwis&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=thyagaalwis&layout=compact&theme=radical)
